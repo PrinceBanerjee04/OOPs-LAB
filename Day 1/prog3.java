@@ -1,4 +1,4 @@
-Java program add two decimal numbers and show the sum.
+// Java program add two decimal numbers and show the sum.
 
 import java.util.*;
 class prog3
