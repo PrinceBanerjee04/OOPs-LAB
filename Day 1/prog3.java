@@ -1,4 +1,4 @@
-
+add two decimal numbers and show the sum
 
 import java.util.*;
 class prog3
