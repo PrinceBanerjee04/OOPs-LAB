@@ -1,4 +1,4 @@
-
+add last 4 digits of the roll no. and show the sum
 
 import java.util.*;
 class prog2
