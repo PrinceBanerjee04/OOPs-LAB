@@ -1,4 +1,4 @@
-a menu driven GUI based program in Java to perform the following task:
+A menu driven GUI based program in Java to perform the following task:
 1. addition 
 2. subtraction
 3. multiplication
