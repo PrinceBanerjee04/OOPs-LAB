@@ -1,6 +1,6 @@
 a menu driven GUI based program in Java to perform the following task:
 1. addition 
-	2. subtraction
+2. subtraction
 	3. multiplication
 	4. division
  The user can perform the above tasks repetitively until he/she wants to quit.(use -99) to quit the program.
