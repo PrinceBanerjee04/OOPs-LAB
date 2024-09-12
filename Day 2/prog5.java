@@ -1,6 +1,5 @@
 Java program to show the values of boolean variable.
 
-
 class prog5
 {
 	public static void main(String[] args)
