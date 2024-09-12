@@ -1,4 +1,4 @@
-Java program to show the values of boolean variable.
+// Java program to show the values of boolean variable.
 
 class prog5
 {
