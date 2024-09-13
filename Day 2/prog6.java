@@ -1,6 +1,5 @@
 Java to show the scope of an identifier i.e show that an outer scope variable is available in the inner scope but not vice versa.
 
-
 class prog6
 {
 	public static void main(String[] args)
