@@ -1,4 +1,4 @@
-Java to show the scope of an identifier i.e show that an outer scope variable is available in the inner scope but not vice versa.
+// Java program to show the scope of an identifier i.e show that an outer scope variable is available in the inner scope but not vice versa.
 
 class prog6
 {
