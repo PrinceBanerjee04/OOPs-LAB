@@ -14,4 +14,3 @@ class prog6
 	      //System.out.println("Value of y(outer scope) : " + y);
 	}
 }
-			
