@@ -13,6 +13,6 @@ class prog6
 			x--;
 		}
 		System.out.println("Value of x(outer scope) : " + x);
-	      //System.out.println("Value of y(outer scope) : " + y);
+	        //System.out.println("Value of y(outer scope) : " + y);
 	}
 }
