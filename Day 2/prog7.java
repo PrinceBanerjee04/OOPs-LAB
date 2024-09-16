@@ -1,7 +1,7 @@
 Wap in java to show the narrowing conversion from 
 	
 a) double to integer
-	b) integer to byte
+b) integer to byte
 
 import java.util.*;
 class prog7
