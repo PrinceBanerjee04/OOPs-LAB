@@ -1,3 +1,4 @@
+WAP in java to create an integer array, initialize it and print its values.
 
 
 class prog8
