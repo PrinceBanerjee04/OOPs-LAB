@@ -1,6 +1,5 @@
 java to show the left and right shift operations.
 
-
 class prog9
 {
 	public static void main(String[] args)
