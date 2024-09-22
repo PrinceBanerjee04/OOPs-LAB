@@ -1,4 +1,4 @@
-java to show the left and right shift operations.
+Java to show the left and right shift operations.
 
 class prog9
 {
