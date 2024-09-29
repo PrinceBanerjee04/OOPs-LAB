@@ -1,3 +1,4 @@
+java to show the use of ?: operator.
 
 
 class prog10
