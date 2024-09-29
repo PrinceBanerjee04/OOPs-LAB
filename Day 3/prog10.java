@@ -1,4 +1,4 @@
-Java program to show the use of ?:(ternary) operator.
+// Java program to show the use of ?:(ternary) operator.
 
 class prog10
 {	
