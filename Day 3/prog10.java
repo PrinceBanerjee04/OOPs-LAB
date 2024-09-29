@@ -1,4 +1,4 @@
-java to show the use of ?: operator.
+Java program to show the use of ?: operator.
 
 class prog10
 {	
