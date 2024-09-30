@@ -1,4 +1,4 @@
-// java to show if-else selection structure.
+// Java program to show if-else selection structure.
 
 
 class prog11
