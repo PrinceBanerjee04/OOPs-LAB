@@ -1,6 +1,5 @@
 // Java program to show if-else selection structure.
 
-
 class prog11
 {	
 	public static void main(String[] args)
