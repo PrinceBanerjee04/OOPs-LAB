@@ -1,5 +1,6 @@
 // Java to show the use of nested if-else selection structure.
 
+
 class prog12
 {	
 	public static void main(String[] args)
