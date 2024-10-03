@@ -1,5 +1,4 @@
-// Java to show the use of nested if-else selection structure.
-
+// Java program to show the use of nested if-else selection structure.
 
 class prog12
 {	
