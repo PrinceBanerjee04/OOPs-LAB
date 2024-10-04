@@ -27,6 +27,6 @@ class prog12
 				max = c;
 			}
 		}
-		System.out.println("Maximum : " + max);
+		System.out.println("Maximum = " + max);
 	}
 }
