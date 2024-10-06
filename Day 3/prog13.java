@@ -1,4 +1,4 @@
-Java to show the use of ‘while’ in a GUI based program.
+// Java to show the use of ‘while’ in a GUI based program.
 
 import javax.swing.JOptionPane;
 class prog13
