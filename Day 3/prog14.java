@@ -1,4 +1,4 @@
- java to show the use of switch-case.
+java to show the use of switch-case.
 
 
 import java.util.*;
