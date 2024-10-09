@@ -1,6 +1,7 @@
 // Java program to show the use of switch-case.
 
 import java.util.*;
+
 class prog14
 {
 	public static void main(String[] args)
