@@ -13,3 +13,6 @@ class prog15
 			System.out.println(i);
 			c++;
 		}
+		System.out.println("The loop breaks at : " + c);
+	}
+}
