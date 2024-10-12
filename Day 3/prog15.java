@@ -10,3 +10,6 @@ class prog15
 			{
 				break;
 			}
+			System.out.println(i);
+			c++;
+		}
