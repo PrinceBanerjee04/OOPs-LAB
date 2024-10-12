@@ -6,3 +6,7 @@ class prog15
 		int i, c = 0;
 		for(i = 0; i <= 10;i++)
 		{
+			if(c == 6)
+			{
+				break;
+			}
