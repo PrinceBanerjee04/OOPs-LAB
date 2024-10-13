@@ -1,1 +1,1 @@
-Java program to show the use of continue.
+//Java program to show the use of continue.
