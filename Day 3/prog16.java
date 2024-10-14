@@ -1,4 +1,5 @@
 // Java program to show the use of continue.
+
 class prog16
 {
 	public static void main(String[] args)
