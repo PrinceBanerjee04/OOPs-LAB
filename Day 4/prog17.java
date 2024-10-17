@@ -1,4 +1,4 @@
-Java program to show the use of labelled break. 
+// Java program to show the use of labelled break. 
 
 class prog17
 {
