@@ -1,5 +1,5 @@
 Java to show the use of labelled break. 
-	
+
 class prog17
 {
 	public static void main(String[] args)
