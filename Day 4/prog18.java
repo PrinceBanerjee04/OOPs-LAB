@@ -1,4 +1,4 @@
-//Java program to show the use of labelled continue.
+// Java program to show the use of labelled continue.
 
 class prog18
 {
