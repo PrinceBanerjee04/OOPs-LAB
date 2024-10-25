@@ -1,4 +1,4 @@
-Java program to show the use of return.
+//Java program to show the use of return.
 
 class prog19
 {
