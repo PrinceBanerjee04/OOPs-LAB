@@ -1,6 +1,5 @@
 java to show the use of return.
 
-
 class prog19
 {
 	public static void main(String[] args)
