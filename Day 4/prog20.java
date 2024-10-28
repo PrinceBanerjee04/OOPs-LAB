@@ -1,4 +1,4 @@
-Java to show the use of method overloading.
+Java programto show the use of method overloading.
 
 class prog20
 {
