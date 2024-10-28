@@ -1,6 +1,5 @@
 java to show the use of method overloading.
 
-
 class prog20
 {
 	public static void main(String[] args)
