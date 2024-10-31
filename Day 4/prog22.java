@@ -13,5 +13,3 @@ class prog22
 		System.out.println("Value after call : " + i);
 	}
 }
-
-	
