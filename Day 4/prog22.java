@@ -1,3 +1,4 @@
+
 class prog22
 {
 	public static void call(int i)
