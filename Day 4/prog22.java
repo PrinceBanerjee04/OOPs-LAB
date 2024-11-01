@@ -1,4 +1,4 @@
-java to show call by value.
+Java to show call by value.
 
 class prog22
 {
