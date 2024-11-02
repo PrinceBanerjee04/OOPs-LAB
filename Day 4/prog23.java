@@ -22,4 +22,3 @@ class prog23
 		System.out.println("ob.a and ob.b after call: " + ob.a + " " + ob.b);
 	}
 }
-
