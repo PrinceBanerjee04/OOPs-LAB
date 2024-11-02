@@ -1,6 +1,5 @@
 java to show call by reference.
 
-
 class Test 
 {
 	int a, b;
