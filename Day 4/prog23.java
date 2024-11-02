@@ -1,4 +1,4 @@
-java to show call by reference.
+Java to show call by reference.
 
 class Test 
 {
