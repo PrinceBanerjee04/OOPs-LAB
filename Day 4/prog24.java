@@ -1,4 +1,4 @@
-
+java to show recursion.
 
 class prog24
 {
