@@ -1,4 +1,4 @@
-//Java program to show recursion.
+// Java program to show recursion.
 
 class prog24
 {
