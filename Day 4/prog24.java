@@ -1,4 +1,5 @@
 
+
 class prog24
 {
 	public static int fact(int n)
