@@ -1,4 +1,4 @@
-Java program to show the use of private, public, protected and default access specifiers.
+//Java program to show the use of private, public, protected and default access specifiers.
 
 	
 public class prog25
