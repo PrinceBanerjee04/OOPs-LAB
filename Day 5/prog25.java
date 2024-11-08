@@ -17,7 +17,8 @@ public class as1
 		System.out.println("Default access : " + ob.defA + "\n");
 	}
 }
-	
+
+
 public class prog25
 {
 	public static void main(String[] args)
