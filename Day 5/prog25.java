@@ -49,6 +49,7 @@ public class as2 extends as1
 		System.out.println("Default access fails.");
 	}
 }
+
 public class prog25
 {
 	public static void main(String[] args)
