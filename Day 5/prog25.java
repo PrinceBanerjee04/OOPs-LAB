@@ -32,7 +32,22 @@ public class as1a extends as1
 		System.out.println("Default access : " + ob.defA + "\n");
 	}
 }
-
+package p2;
+import p1.as1;
+public class as2 extends as1
+{
+	public static void display()
+	{
+		as2 ob = new as2();
+		System.out.println("Different package and subclass : ");
+		System.out.println("Public access : " + ob.pubA);
+		//System.out.println("Private access : " + ob.privA);
+		System.out.println("Private access fails.");
+		System.out.println("Protected access : " + ob.procA);
+		//System.out.println("Default access : " + ob.defA);
+		System.out.println("Default access fails.");
+	}
+}
 public class prog25
 {
 	public static void main(String[] args)
