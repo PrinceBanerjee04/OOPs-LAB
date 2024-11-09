@@ -32,6 +32,7 @@ public class as1a extends as1
 		System.out.println("Default access : " + ob.defA + "\n");
 	}
 }
+
 package p2;
 import p1.as1;
 public class as2 extends as1
