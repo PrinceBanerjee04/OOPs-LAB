@@ -50,6 +50,7 @@ public class as2 extends as1
 	}
 }
 
+
 public class prog25
 {
 	public static void main(String[] args)
