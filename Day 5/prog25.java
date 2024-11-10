@@ -50,7 +50,20 @@ public class as2 extends as1
 	}
 }
 
-
+package p2;
+public class as2a
+{
+	public static void display()
+	{
+		as2a ob = new as2a();
+		System.out.println("\nDifferent package and different subclass : ");
+		//System.out.println("Public access : " + ob.pubA);
+		//System.out.println("Private access : " + ob.privA);
+		//System.out.println("Protected access : " + ob.procA);
+		//System.out.println("Default access : " + ob.defA + "\n");
+		System.out.println("All access fails");
+	}
+}
 
 public class prog25
 {
