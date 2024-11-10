@@ -49,7 +49,6 @@ public class as2 extends as1
 		System.out.println("Default access fails.");
 	}
 }
-
 package p2;
 public class as2a
 {
