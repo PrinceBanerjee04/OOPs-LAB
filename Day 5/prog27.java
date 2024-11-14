@@ -1,1 +1,1 @@
-java to show the use of static variable.
+Java to show the use of static variable.
