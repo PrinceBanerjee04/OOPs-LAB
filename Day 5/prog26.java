@@ -1,4 +1,4 @@
-java to show the use of static method.
+Java to show the use of static method.
 
 class sMethod
 {
