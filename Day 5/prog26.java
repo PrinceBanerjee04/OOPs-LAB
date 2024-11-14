@@ -1,6 +1,5 @@
 java to show the use of static method.
 
-
 class sMethod
 {
 	public static void area(int l,int b)
