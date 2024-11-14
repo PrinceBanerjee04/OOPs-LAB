@@ -1,4 +1,4 @@
-//Java program to show the use of static method.
+// Java program to show the use of static method.
 
 class sMethod
 {
