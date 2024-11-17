@@ -1,6 +1,5 @@
 Java to show the use of static variable.
 
-
 class count
 {
 	static int c = 0;
