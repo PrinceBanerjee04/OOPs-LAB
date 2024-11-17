@@ -17,4 +17,3 @@ class prog27
 		System.out.println("Total objects created : " + count.c);
 	}
 }
-		
