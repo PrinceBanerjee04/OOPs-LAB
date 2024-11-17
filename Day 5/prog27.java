@@ -1,4 +1,4 @@
-Java to show the use of static variable.
+Java prorgram to show the use of static variable.
 
 class count
 {
