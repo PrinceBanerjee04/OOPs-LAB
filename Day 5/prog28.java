@@ -1,3 +1,5 @@
+java to show inheritance.
+
 class animal
 {
 	String name;
