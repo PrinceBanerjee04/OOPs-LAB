@@ -1,4 +1,4 @@
-java to show inheritance.
+Java to show inheritance.
 
 class animal
 {
