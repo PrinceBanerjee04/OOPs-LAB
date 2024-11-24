@@ -1,4 +1,4 @@
- java to show the use of super.
+java to show the use of super.
 
 class animal
 {
