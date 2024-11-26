@@ -1,2 +1,2 @@
-Java to show method overriding.
+Java program to show method overriding.
 
