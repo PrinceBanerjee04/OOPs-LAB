@@ -1,4 +1,4 @@
-//Java program to show Dynamic Method Dispatch.
+// Java program to show Dynamic Method Dispatch.
 
 class A
 {
