@@ -1,6 +1,5 @@
  java to show Dynamic Method Dispatch.
 
-
 class A
 {
 	public void print()
