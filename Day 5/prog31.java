@@ -1,4 +1,4 @@
-java to show Dynamic Method Dispatch.
+Java to show Dynamic Method Dispatch.
 
 class A
 {
