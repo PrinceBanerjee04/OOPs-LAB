@@ -17,4 +17,3 @@ class prog32
 		ob.eat();
 	}
 }
-		
