@@ -1,4 +1,4 @@
-Java program to show abstract class.
+//Java program to show abstract class.
 
 abstract class Animal
 {
