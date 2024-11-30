@@ -1,4 +1,8 @@
-
+package p1;
+public class prog33a
+{
+	public static String a = "Inside class of First Package";
+}
 
 class prog33
 {
