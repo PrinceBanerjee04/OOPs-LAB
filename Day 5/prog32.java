@@ -1,4 +1,4 @@
-java to show abstract class.
+Java to show abstract class.
 
 abstract class Animal
 {
