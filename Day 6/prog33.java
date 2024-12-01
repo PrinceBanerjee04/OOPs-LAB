@@ -1,6 +1,5 @@
 java to create two classes in two packages and use them.
 
-
 package p1;
 public class prog33a
 {
