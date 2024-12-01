@@ -9,6 +9,7 @@ public class prog33b
 {
 	public static String b = "Inside class of Second Package";
 }
+
 class prog33
 {
 	public static void main(String[] args)
