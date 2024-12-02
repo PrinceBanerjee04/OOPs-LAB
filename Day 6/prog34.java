@@ -1,3 +1,4 @@
+
 interface Animal
 {
 	void eat();
