@@ -1,4 +1,4 @@
-//java to create an interface and use that in a class.
+//Java to create an interface and use that in a class.
 
 interface Animal
 {
