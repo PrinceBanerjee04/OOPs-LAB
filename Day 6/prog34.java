@@ -1,6 +1,5 @@
 //java to create an interface and use that in a class.
 
-
 interface Animal
 {
 	void eat();
