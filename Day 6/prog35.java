@@ -1,1 +1,1 @@
-java to implement multiple inheritances.
+Java to implement multiple inheritances.
