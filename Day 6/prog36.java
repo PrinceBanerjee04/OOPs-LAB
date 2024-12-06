@@ -1,3 +1,4 @@
+java to show the existence of default exception handlers in java.
 
 
 class prog36
