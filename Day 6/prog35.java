@@ -1,4 +1,4 @@
-//Java program to implement multiple inheritances.
+// Java program to implement multiple inheritances.
 
 interface Animal
 {
