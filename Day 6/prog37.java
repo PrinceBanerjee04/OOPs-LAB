@@ -1,2 +1,2 @@
-java to show the use of ArithmaticException.
+Java to show the use of ArithmaticException.
 
