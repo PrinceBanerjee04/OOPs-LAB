@@ -1,4 +1,4 @@
-java to show the use of Multiple catch block.
+Java to show the use of Multiple catch block.
 
 import java.util.*;
 class prog38
