@@ -1,4 +1,4 @@
-Java to show the use of nested try statement.
+Java program to show the use of nested try statement.
 
 import java.util.*;
 class prog39
