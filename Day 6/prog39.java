@@ -1,6 +1,5 @@
 java to show the use of nested try statement.
 
-
 import java.util.*;
 class prog39
 {
