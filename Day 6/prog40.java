@@ -1,3 +1,4 @@
+
 class prog41
 {
 	static void THROW() throws IllegalAccessException 
