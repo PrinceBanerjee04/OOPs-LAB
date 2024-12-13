@@ -1,4 +1,4 @@
-java to throw Throwable object from try and catch block.
+Java to throw Throwable object from try and catch block.
 
 class prog41
 {
