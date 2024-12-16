@@ -1,4 +1,4 @@
-java to show Deadlock.
+Java to show Deadlock.
 
 class prog45
 {  
