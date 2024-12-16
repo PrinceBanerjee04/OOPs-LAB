@@ -1,4 +1,4 @@
-// Java to show Deadlock.
+// Java program to show Deadlock.
 
 class prog45
 {  
