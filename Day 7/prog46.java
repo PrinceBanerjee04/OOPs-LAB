@@ -1,4 +1,5 @@
-when you are calculating the summation of numbers by two threads the time requirement is less than the time requirement by a single threaded program for doing the same task.
+/*when you are calculating the summation of numbers by two threads the time requirement is less 
+	than the time requirement by a single threaded program for doing the same task.*/
 
 
 class Sum extends Thread
