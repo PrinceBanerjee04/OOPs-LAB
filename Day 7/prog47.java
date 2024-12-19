@@ -1,4 +1,4 @@
-
+java which will take input from the command prompt and show that on screen.
 
 import java.io.*;
 class prog47
