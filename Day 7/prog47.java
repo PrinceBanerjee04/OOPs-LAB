@@ -1,4 +1,5 @@
 
+
 import java.io.*;
 class prog47
 {
