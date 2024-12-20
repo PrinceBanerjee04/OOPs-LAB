@@ -1,4 +1,4 @@
-java which will copy the content of one file into another.
+Java which will copy the content of one file into another.
 
 import java.io.*;
 class prog48
