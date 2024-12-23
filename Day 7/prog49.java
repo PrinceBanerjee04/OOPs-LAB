@@ -40,6 +40,7 @@ class Stack<T>
         	return elements.size();
     	}
 }
+
 class prog49
 {
 	public static void main(String[] args) 
