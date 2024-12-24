@@ -1,4 +1,4 @@
-java for Stack using generic class.
+Java for Stack using generic class.
 
 import java.util.*;
 class Stack<T> 
